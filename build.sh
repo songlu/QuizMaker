@@ -1,0 +1,1 @@
+mkdir /c/wamp/www/myphp/first
